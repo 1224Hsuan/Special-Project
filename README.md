@@ -7,9 +7,10 @@ An app to identify the weather of roads in Taiwan.
 * Google Colab
 
 ## Feature
-* Requirement:
+* Requirement
 
     Install the latest version of chromedriver.exe.
+    
 * Crawler
 
 
