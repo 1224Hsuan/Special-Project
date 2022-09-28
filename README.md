@@ -7,15 +7,29 @@ An app to identify the weather of roads in Taiwan.
 * Google Colab
 
 ## Feature
-* Requirement
-
-    Install the latest version of chromedriver.exe.
     
 * Crawler
-
+<ol>
+<li> Visit the websites by getting the URL from .csv file.</li>
+<li> Get the screenshot from the website.</li>
+<li> Crop and store the image.</li>
+</ol>
 
 * Training Model
-
+  | parameter | value |
+  | ---- | ---- |
+  | image size | 224 x 224 |
+  | batch size | 32 |
+  | epoch | 50 |
+  | data augmentation | RandomFlip<br>RandomRotation<br>Rescaling<br>RandomTranslation<br> |
+  
 * User Interface
+<ol>
+<li> Choose the city, district and road sequentially.</li>
+<li> App will get the real-time image of the road.</li>
+<li> Show the result.</li>
+</ol>
 
 ## Operating Method
+* Install the latest version of chromedriver.exe.
+* Run APP.py.
