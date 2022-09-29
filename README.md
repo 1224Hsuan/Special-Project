@@ -16,6 +16,9 @@ An app to identify the weather of roads in Taiwan.
 </ol>
 
 * Training Model
+
+    Use google colab to train the model.
+
   | parameter | value |
   | ---- | ---- |
   | image size | 224 x 224 |
