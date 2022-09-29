@@ -34,5 +34,5 @@ An app to identify the weather of roads in Taiwan.
 </ol>
 
 ## Operating Method
-* Install the latest version of chromedriver.exe.
+* Install correct version of chromedriver.exe, which is corresponding to the version of google chrome.
 * Run APP.py.
