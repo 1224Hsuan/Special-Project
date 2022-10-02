@@ -1,5 +1,5 @@
 # 深度學習辨識全台道路晴雨APP
-An app to identify the weather of roads in Taiwan.
+An app to recognize the weather of roads in Taiwan.
 
 ## Language and Environment
 * Python 3.7.4
